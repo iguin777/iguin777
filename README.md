@@ -1,18 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=835&lines=Hi%2C+everyone!+I'm+Igor+Moreira.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
 
- <h2>💫 About Me</h2>
+<h2>💫 About Me</h2>
 <p align="left"> <a href="https://visitcount.itsvg.in"><img width="150px" src="https://visitcount.itsvg.in/api?id=iguin777&icon=2&color=12" alt="Visitor Count" /></a> </p>
+<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
-<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
+
 <h4> 
+
   🌱 I'm currently working and developing my programming skills.</br>
 🔭 Student at Etec.</br>
  💬 Ask me about Games and Design.</br>
  ⚡ Interested in UI-UX Design, Front-end, Artificial Intelligence, 3D Animation.</br>
  ✨ I only like perfection.</h4> 
  <br>
+
 <div>
    <a href="https://github.com/iguin777">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iguin777&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
