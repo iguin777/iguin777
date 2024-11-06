@@ -1,8 +1,8 @@
 # Hello World, I'm Igor, be very welcome
 <div>
    <a href="https://github.com/iguin777">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iguin777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iguin777&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iguin777&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iguin777&layout=compact&langs_count=6&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="43" height="40" alt="React Native">
