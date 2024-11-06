@@ -14,7 +14,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # Token correto para acesso
+          token: ${{ secrets.GH_TOKEN }}  # Usando o Personal Access Token gerado
 
       # Snake Animation
       - uses: Platane/snk@master
@@ -24,9 +24,9 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       # Gerar o conteúdo para o GitHub Pages
-      - uses: crazy-max/ghaction-github-pages@v2.2.0  # Certifique-se de estar usando a versão mais recente
+      - uses: crazy-max/ghaction-github-pages@v2.2.0  # Verifique se está na versão mais recente
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # Usando o token pessoal gerado
