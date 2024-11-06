@@ -1,4 +1,5 @@
-# Hello World, I'm Igor, be very welcome
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=435&lines=Hi%2C+everyone!+I'm+Igor+Moreira.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
+
 <div>
    <a href="https://github.com/iguin777">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iguin777&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
