@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=435&lines=Hi%2C+everyone!+I'm+Igor+Moreira.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=835&lines=Hi%2C+everyone!+I'm+Igor+Moreira.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
 
  <h2>💫 About Me</h2>
