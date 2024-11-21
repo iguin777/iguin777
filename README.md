@@ -3,7 +3,7 @@
 
 <h2>💫 About Me</h2>
 <p align="left"> <a href="https://visitcount.itsvg.in"><img width="150px" src="https://visitcount.itsvg.in/api?id=iguin777&icon=2&color=12" alt="Visitor Count" /></a> </p>
-<img align="right" alt="coding-gif" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"/>
+<!--<img align="right" alt="coding-gif" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"/>-->
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
 
