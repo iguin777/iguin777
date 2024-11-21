@@ -3,7 +3,7 @@
 
 <h2>💫 About Me</h2>
 <p align="left"> <a href="https://visitcount.itsvg.in"><img width="150px" src="https://visitcount.itsvg.in/api?id=iguin777&icon=2&color=12" alt="Visitor Count" /></a> </p>
-<!--<img align="right" alt="coding-gif" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"/>-->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
 
@@ -17,9 +17,9 @@
  <br>
 
 <div>
-   <a href="https://github.com/iguin777">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iguin777&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iguin777&layout=compact&langs_count=6&theme=dark"/>
+   <a href="https://github.com/raul691">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iguin777&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iguin777&layout=compact&langs_count=6&theme=midnight-purple"/>
 </div>
 
 <div style="display: inline_block"><br>
